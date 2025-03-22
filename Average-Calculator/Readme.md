@@ -35,16 +35,16 @@ A simple RESTful API that calculates the average of a list of numbers.
 
 ### Test Case 1: Valid Input
 
-![Valid Input Response](C:\Users\Pryanshu\Desktop\calculatorSS\testCase1.png)
+![Valid Input Response](./src/screenshots/testCase1.png)
 
 ### Test Case 2: Empty Array
 
-![Empty Array Request](C:\Users\Pryanshu\Desktop\calculatorSS\emptyArray.png)
+![Empty Array Request](./src/screenshots/emptyArray.png)
 
 
 ### Test Case 3: Invalid Input
 
-![Invalid Input Request](C:\Users\Pryanshu\Desktop\calculatorSS\InvalidInput.png)
+![Invalid Input Request](./src/screenshots/InvalidInput.png)
 
 
 
